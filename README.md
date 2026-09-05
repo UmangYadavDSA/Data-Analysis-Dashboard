@@ -2,7 +2,7 @@
 ## Project objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, The owner of the vrinda store can understand their customers and grow more sales in 2023-2024
 
-## Dataset used:L-
+## Dataset used:-
 - <a href="https://github.com/UmangYadavDSA/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis1.xlsx">dataset</a>
 
 ## Question (KPIs)
@@ -15,3 +15,13 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, The o
 -Which channel is contributing maximum to the sales?
 -Highest selling category?
 -Percentage of total order delivered
+
+- Dashboard Interaction <a href="https://github.com/UmangYadavDSA/Data-Analysis-Dashboard/blob/main/ss%20vrinda%20store.png">View Dashboard</a>
+
+## process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clear with respect to data type, data format and values used.
+- Created Pivot table according to the question asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+  ## Dashboard
