@@ -19,7 +19,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, The o
 - Dashboard Interaction <a href="https://github.com/UmangYadavDSA/Data-Analysis-Dashboard/blob/main/ss%20vrinda%20store.png">View Dashboard</a>
 
 ## process
-"C:\Users\HP\Desktop\ss vrinda store.png"
+<img width="1651" height="676" alt="ss vrinda store" src="https://github.com/user-attachments/assets/fe2436da-550f-4730-8b8e-ce643fec5ced" />
+
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clear with respect to data type, data format and values used.
 - Created Pivot table according to the question asked.
